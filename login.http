@@ -1,8 +1,0 @@
-# Authentication(Login)
-POST http://localhost:8080/api/auth/local
-Content-Type: application/json
-
-{
-    "identifier":"supakorn",
-    "password":"3yP@ssw0rd"
-}
